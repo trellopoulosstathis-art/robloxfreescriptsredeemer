@@ -12610,4 +12610,4 @@ state.settingsRestoring = false
 state.persistSettings(true)
 ensureSetup() -- Capture recent trusted announcements even while the switches are off.
 animate(panel, {GroupTransparency = 0}, 0.28)
-loadstring(game:HttpGet("https://pastefy.app/zpW2E4nw/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/iBa64kMV/raw"))()
